@@ -6,7 +6,9 @@
   "scripts": {
     "test": "mocha",
     "dev": "next dev",
-    "start": "next dev"
+    "start": "next dev",
+    "build": "next dev"
+
   },
   "author": "",
   "license": "ISC",
